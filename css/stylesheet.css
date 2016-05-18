@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 150px auto;
+}
+.column {
+  background-color: #f1f1f1;
+  text-align: center;
+  color: #828282;
+  padding: 20px 0;
+}
